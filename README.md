@@ -1,9 +1,7 @@
 <p align="center">
 <img src="visual/Banner_Root.png" width="1024"/>
 </p>
-[ AUREYA LINK STATUS ] ██████████████████████████████████████ ONLINE
-
-## AUREYA – GENESIS OS
+<p align="center"><img src="visual/AUREYA_genesis_os.png" width="1024"/></p>
 
 ```
 AUREYA is a cognitive–symbolic operating system designed for real‑time holographic interfaces, emergent behavior modeling, and multi‑layer generative visualization.
@@ -18,10 +16,8 @@ The visual identity follows a 60% atmosphere / 40% readability rule.
 
 ```
 
-> AUREYA LINK STATUS ::::::::::::::::::::::::::::::::::::::::: 100%
+<p align="center"><img src="visual/System_diagnostics.png" width="1024"/></p>
 
-
-## System Diagnostics
 ```
 AUREYA SYSTEMS v1.3.6
 NEURAL MESH INTERFACE / CLAUSE ENGINE
@@ -44,16 +40,12 @@ NEURAL MESH INTERFACE / CLAUSE ENGINE
 1. Core System
 Genesis OS engine, boot sequence, diagnostics, module routing.
 2. Neural Mesh Interface
-Kód
 Holographic humanoid layer, neural flow, emotion‑node mapping.
 3. Clause Engine
-Kód
 Rule‑based logic engine, emergent behavior, auditable decision trees.
 4. FoldCell Interface
-Kód
 Generative field engine, wave‑spaces, multi‑scale emergent patterns.
 5. Visual Engine
-Kód
 HUD, scanlines, glow, timeline, audio‑reactive layers.
 ```
 
@@ -84,6 +76,7 @@ modular design
 visual discipline
 human × machine shared interface
 
+```
 <p align="center">
 <img src="visual/Footer_Root.png" width="1024"/>
 </p>
