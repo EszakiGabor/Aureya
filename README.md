@@ -32,24 +32,10 @@ NEURAL MESH INTERFACE / CLAUSE ENGINE
 [08] HARMONY PROTOCOL..........OK
 ```
 
-<p align="center"><img src="visual/Line.png" width="1024"/></p>
+<p align="center"><img src="visual/Modules.png" width="1024"/></p>
 
-## Modules
+<p align="center"><img src="visual/Repository_structure.png" width="1024"/></p>
 
-```
-1. Core System
-Genesis OS engine, boot sequence, diagnostics, module routing.
-2. Neural Mesh Interface
-Holographic humanoid layer, neural flow, emotion‑node mapping.
-3. Clause Engine
-Rule‑based logic engine, emergent behavior, auditable decision trees.
-4. FoldCell Interface
-Generative field engine, wave‑spaces, multi‑scale emergent patterns.
-5. Visual Engine
-HUD, scanlines, glow, timeline, audio‑reactive layers.
-```
-
-## Repository Structure
 ```
 /docs/       → Technical, philosophical, and visual documentation
 /data/       → JSON configs, audit logs, restore history
@@ -60,7 +46,8 @@ HUD, scanlines, glow, timeline, audio‑reactive layers.
 /gui/        → UI mockups, hologram layers
 ```
 
-## Audio‑Reactive Engine
+<p align="center"><img src="visual/Audio_reactive_engine.png" width="1024"/></p>
+
 ```
 Web Audio API FFT
 BPM pulse mapping
@@ -68,7 +55,8 @@ Neural glow routing
 Emotion‑node pulsation
 ```
 
-## AUREYA Philosophy
+<p align="center"><img src="visual/AUREYA_philosophy.png" width="1024"/></p>
+
 ```
 emergent systems
 auditable logic
@@ -77,11 +65,21 @@ visual discipline
 human × machine shared interface
 
 ```
+<p align="center"><img src="visual/Line.png" width="1024"/></p>
+
 <p align="center">
-  <a href="[YOUR_VIDEO_LINK_HERE](https://eszakigabor.github.io/Aureya/gui/index.html)">
+  <a href="https://eszakigabor.github.io/Aureya/gui/index.html">
     <img src="visual/clause.png" width="720"/>
   </a>
 </p>
+
+<p align="center" style="margin-top:20px;">
+  <a href="https://eszakigabor.github.io/Aureya/gui/index.html">
+    <img src="visual/clause.gif" width="720"/>
+  </a>
+</p>
+
+
 <p align="center">
 <img src="visual/Footer.png" width="1024"/>
 </p>
