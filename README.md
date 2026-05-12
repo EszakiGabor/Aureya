@@ -1,7 +1,9 @@
 <p align="center">
 <img src="visual/Banner_Root.png" width="1024"/>
 </p>
-<p align="center"><img src="visual/Line.png" width="1024"/></p>
+<p align="center">
+  <img src="visual/visual/Line.png" width="1024" height="256"/>
+</p>
 
 📌 AUREYA – GENESIS OS
 AUREYA is a cognitive–symbolic operating system designed for real‑time holographic interfaces, emergent behavior modeling, and multi‑layer generative visualization.
