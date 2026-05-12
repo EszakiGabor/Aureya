@@ -2,7 +2,7 @@
 <img src="visual/Banner_Root.png" width="1024"/>
 </p>
 <p align="center">
-  <img src="visual/visual/Line.png" width="1024" height="256"/>
+  <img src="visual/Line.png" width="1024" height="256"/>
 </p>
 
 📌 AUREYA – GENESIS OS
