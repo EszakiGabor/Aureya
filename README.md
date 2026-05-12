@@ -1,13 +1,14 @@
 <p align="center">
 <img src="visual/Banner_Root.png" width="1024"/>
 </p>
-<p align="center">
-  <img src="visual/Line.png" width="1024" height="100"/>
-</p>
 
 ```
 📌 AUREYA – GENESIS OS
+
 ```
+<p align="center">
+  <img src="visual/Line.png" width="1024" height="100"/>
+</p>
 
 ```
 AUREYA is a cognitive–symbolic operating system designed for real‑time holographic interfaces, emergent behavior modeling, and multi‑layer generative visualization.
@@ -35,11 +36,10 @@ The visual identity follows a 60% atmosphere / 40% readability rule.
 ```
 ⚙️ System Diagnostics
 ```
-Kód
+```
 AUREYA SYSTEMS v1.3.6
 NEURAL MESH INTERFACE / CLAUSE ENGINE
 > SYSTEM STATUS: ONLINE
-```
 [01] CORE SYSTEM...............OK
 [02] PHOTON CHANNELS...........OK
 [03] NEURAL LATTICE............OK
