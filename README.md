@@ -78,6 +78,11 @@ human × machine shared interface
 
 ```
 <p align="center">
+  <a href="[YOUR_VIDEO_LINK_HERE](https://eszakigabor.github.io/Aureya/gui/index.html)">
+    <img src="visual/AUREYA_VIDEO_BUTTON.png" width="720"/>
+  </a>
+</p>
+<p align="center">
 <img src="visual/Footer.png" width="1024"/>
 </p>
 <p align="center"><img src="visual/Line.png" width="1024"/></p>
