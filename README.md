@@ -78,6 +78,6 @@ human × machine shared interface
 
 ```
 <p align="center">
-<img src="visual/Footer_Root.png" width="1024"/>
+<img src="visual/Footer.png" width="1024"/>
 </p>
 <p align="center"><img src="visual/Line.png" width="1024"/></p>
