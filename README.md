@@ -5,6 +5,7 @@
   <img src="visual/Line.png" width="1024" height="100"/>
 </p>
 
+```
 📌 AUREYA – GENESIS OS
 AUREYA is a cognitive–symbolic operating system designed for real‑time holographic interfaces, emergent behavior modeling, and multi‑layer generative visualization.
 
@@ -23,10 +24,14 @@ FoldCell generative field
 Holographic UI engine
 
 The visual identity follows a 60% atmosphere / 40% readability rule.
+```
 
 <p align="center"><img src="visual/Line.png" width="1024"/></p>
 
+```
+
 ⚙️ System Diagnostics
+```
 Kód
 AUREYA SYSTEMS v1.3.6
 NEURAL MESH INTERFACE / CLAUSE ENGINE
@@ -40,9 +45,14 @@ NEURAL MESH INTERFACE / CLAUSE ENGINE
 [06] FOLDCELL INTERFACE........OK
 [07] MEMORY STREAM.............OK
 [08] HARMONY PROTOCOL..........OK
+
+```
+
 <p align="center"><img src="visual/Line.png" width="1024"/></p>
 
+```
 🧩 Modules
+```
 1. Core System
 Kód
 Genesis OS engine, boot sequence, diagnostics, module routing.
