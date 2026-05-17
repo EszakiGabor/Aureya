@@ -15,7 +15,7 @@ The ideas, direction and overall vision originate from me.
 ```
 <p align="center">
 <a href="docs/creators/SEZA_AUTHOR_PROFILE.md">
-<img src="visual/profile.png" width="1024"/>
+<img src="visual/profil.png" width="1024"/>
 </a>
 </p>
 
