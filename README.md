@@ -4,17 +4,20 @@
 <p align="center"><img src="visual/AUREYA_genesis_os.png" width="1024"/></p>
 
 ```
-AUREYA is a cognitive–symbolic operating system designed for real‑time holographic interfaces, emergent behavior modeling, and multi‑layer generative visualization.
-Core principles:
-Modular architecture
-Audit‑driven documentation pipeline
-Neural Mesh Interface
-Clause Engine
-FoldCell generative field
-Holographic UI engine
-The visual identity follows a 60% atmosphere / 40% readability rule.
+> SYSTEM STATUS: ONLINE
 
+:: [ INTRODUCTION ] ::
+
+Hi, I'm Seza.
+AUREYA is a long-term project created from my own ideas, worldbuilding and system concepts.
+AI tools were used throughout development as creative and technical tools. I believe transparent AI-assisted workflows are a normal part of modern creation.
+The ideas, direction and overall vision originate from me.
 ```
+<p align="center">
+<a href="docs/creators/SEZA_AUTHOR_PROFILE.md">
+<img src="visual/profile.png" width="720"/>
+</a>
+</p>
 
 <p align="center"><img src="visual/System_diagnostics.png" width="1024"/></p>
 
