@@ -35,15 +35,6 @@ Building a modular human × machine ecosystem
 
 <p align="center"><img src="visual/modules.png" width="1024"/></p>
 
-```
-> MODULE SCAN INITIALIZED
-Primary subsystem architecture detected.
-[01] Core System
-[02] Neural Mesh Interface
-[03] Clause Engine
-[04] FoldCell Interface
-[05] Visual Engine
-```
 <p align="center"><img src="visual/Repository_structure.png" width="1024"/></p>
 
 ```
