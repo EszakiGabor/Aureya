@@ -33,7 +33,7 @@ Purpose:
 Building a modular human × machine ecosystem
 ```
 
-<p align="center"><img src="visual/Modules.png" width="1024"/></p>
+<p align="center"><img src="visual/modules.png" width="1024"/></p>
 
 ```
 > MODULE SCAN INITIALIZED
