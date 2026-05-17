@@ -9,15 +9,12 @@
 :: [ INTRODUCTION ] ::
 
 Hi, I'm Seza.
-AUREYA is a long-term project created from my own ideas, worldbuilding and system concepts.
-AI tools were used throughout development as creative and technical tools. I believe transparent AI-assisted workflows are a normal part of modern creation.
-The ideas, direction and overall vision originate from me.
+AUREYA is a long-term worldbuilding and system project built around original concepts, 
+modular structures and experimental interfaces.
+AI tools are used throughout development as creative and technical tools. The ideas, 
+direction and overall vision originate from me.
+
 ```
-<p align="center">
-<a href="docs/creators/SEZA_AUTHOR_PROFILE.md">
-<img src="visual/profil.png" width="1024"/>
-</a>
-</p>
 
 <p align="center"><img src="visual/System_diagnostics.png" width="1024"/></p>
 
