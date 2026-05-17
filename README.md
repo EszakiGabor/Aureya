@@ -22,21 +22,28 @@ The ideas, direction and overall vision originate from me.
 <p align="center"><img src="visual/System_diagnostics.png" width="1024"/></p>
 
 ```
-AUREYA SYSTEMS v1.3.6
-NEURAL MESH INTERFACE / CLAUSE ENGINE
-> SYSTEM STATUS: ONLINE
-[01] CORE SYSTEM...............OK
-[02] PHOTON CHANNELS...........OK
-[03] NEURAL LATTICE............OK
-[04] EMOTIONAL MATRIX..........OK
-[05] CLAUSE ENGINE.............OK
-[06] FOLDCELL INTERFACE........OK
-[07] MEMORY STREAM.............OK
-[08] HARMONY PROTOCOL..........OK
+> AUREYA IDENTIFICATION:
+Classification:
+Cognitive–Symbolic System Universe
+Function:
+Worldbuilding / Systems / Interfaces
+Status:
+ASSEMBLY IN PROGRESS
+Purpose:
+Building a modular human × machine ecosystem
 ```
 
 <p align="center"><img src="visual/Modules.png" width="1024"/></p>
 
+```
+> MODULE SCAN INITIALIZED
+Primary subsystem architecture detected.
+[01] Core System
+[02] Neural Mesh Interface
+[03] Clause Engine
+[04] FoldCell Interface
+[05] Visual Engine
+```
 <p align="center"><img src="visual/Repository_structure.png" width="1024"/></p>
 
 ```
