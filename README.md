@@ -85,6 +85,36 @@ STATUS: ACTIVE
 STATUS: STABLE
 
 ```
+<p align="center"><img src="visual/System_diagnostics.png" width="1024"/></p>
+
+```
+> SIGNAL NODE MATRIX LOADED
+
+[01] active broadcast channels  
+[02] subsystem‑level GUI constructs  
+[03] audio‑narrative signal layers  
+[04] dual‑terminal access pathways  
+[05] convergence toward CORE
+
+STATUS: STABLE
+
+## SIGNAL NODES
+
+[01] **FUZZEY GREEN™ v1.0**  
+     commercial signal injection  
+     PC TERMINAL × MOBILE TERMINAL
+
+[02] **BLUE WORMHOLE v1.1**  
+     temporal gate sequence  
+     PC NODE × MOBILE NODE
+
+All nodes operate as autonomous broadcast units.  
+Each maintains its own visual logic, audio substrate, and narrative context.  
+All transmissions return to the CORE.
+
+
+```
+
 <table width="100%">
 <tr>
 
