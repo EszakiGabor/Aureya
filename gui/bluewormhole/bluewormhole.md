@@ -63,7 +63,7 @@ https://eszakigabor.github.io/Aureya/gui/bluewormhole/blue_wormhole.html
 https://eszakigabor.github.io/Aureya/gui/bluewormhole/blue_wormhole_mobil.html
 
 🖼 ALBUM ART  
-../../visual/album/bluewormhole.png
+[../../visual/album/bluewormhole.png](https://github.com/EszakiGabor/Aureya/blob/main/visual/album/bluewormhole.png)
 
 ---
 
