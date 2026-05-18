@@ -1,6 +1,7 @@
-CHROME ANDROID LOVE
-BLUE WORMHOLE — PROLOGUE
----
+## CHROME ANDROID LOVE
+
+(BLUE WORMHOLE — PROLOGUE)
+
 
 The blue light of the wormhole pulsed in a slow, deep rhythm, as if time itself were breathing. The vibration moved gently through the glass wall, through the frame of the station, and somewhere deep inside me it echoed back.
 
