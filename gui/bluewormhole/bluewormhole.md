@@ -46,34 +46,30 @@ And the past opened before me.
 
 <img src="../../visual/album/bluewormhole.pngg" width="500"/>
 
-# [17] BLUE WORMHOLE
-Temporal Gate Sequence  
+[17] BLUE WORMHOLE
+Temporal Gate Sequence
 AUREYA ICM v1.1
 
-STATUS: FIRST TRANSMISSION NODE  
-SIGNAL STATE: ACTIVE
+NODE:
+github.com/EszakiGabor/Aureya/gui/bluewormhole
 
-🎵 SUNO SIGNAL  
+SIGNAL LINKS:
+
+🎵 SUNO SIGNAL
 https://suno.com/s/hWrpBHiNtcr2Tdct
 
-🖥 PC NODE  
+🖥 PC NODE
 https://eszakigabor.github.io/Aureya/gui/bluewormhole/blue_wormhole.html
 
-📱 MOBILE NODE  
+📱 MOBILE NODE
 https://eszakigabor.github.io/Aureya/gui/bluewormhole/blue_wormhole_mobil.html
 
-🖼 ALBUM ART  
-[../../visual/album/bluewormhole.png](https://github.com/EszakiGabor/Aureya/blob/main/visual/album/bluewormhole.png)
+🖼 ALBUM ART
+../../visual/album/bluewormhole.png
 
----
-
-ARCHIVE NOTE:
-
-The beginning is the end.  
-The end is where we remember.  
-We do not travel through time.  
-We remember our way back.
-
-— AUREYA
+TRANSMISSION STATUS: ARCHIVED
+TEMPORAL INDEX: LOOP-ENTRY [17]
+MEMORY STATE: RESTORED
+SIGNAL ORIGIN: UNKNOWN
 
 ------
