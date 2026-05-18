@@ -1,5 +1,7 @@
 # FUZZEY GREEN™
 
+<img src="../../visual/commercial/fuzzeygreen1.png" width="900">
+
 > BOOST YOUR CORE.
 
 **Classification:** Consumer Stimulant / Signal Enhancement Beverage  
