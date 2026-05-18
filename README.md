@@ -98,7 +98,7 @@ Commercial signal injection
 
 <td align="center">
 <a href="./gui/bluewormhole/bluewormhole.html">
-<img src="./visual/bluewormhole.gif" width="320"><br>
+<img src="./visual/bluewormhole.png" width="320"><br>
 <b>BLUE WORMHOLE v1.1</b>
 </a><br>
 Temporal gate sequence
@@ -114,12 +114,6 @@ Emotional matrix update
 
 </tr>
 </table>
-
-<p align="center" style="margin-top:20px;">
-  <a href="https://eszakigabor.github.io/Aureya/gui/index.html">
-    <img src="visual/clause.gif" width="720"/>
-  </a>
-</p>
 
 
 <p align="center">
