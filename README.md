@@ -142,22 +142,14 @@ Commercial signal injection
 <td align="center">
 
 <a href="./gui/bluewormhole/bluewormhole.md">
-<img src="./visual/album/bluewormhole.png" width="320"><br>
+<img src="./visual/album/bluewormhole.png" width="250"><br>
 <b>BLUE WORMHOLE v1.1</b>
 </a><br>
-
 Temporal gate sequence
-
 <br><br>
-
-<a href="./gui/bluewormhole/blue_wormhole.html">
-🖥 PC NODE
-</a>
-
-|
-
-<a href="./gui/bluewormhole/blue_wormhole_mobil.htm">
-📱 MOBILE NODE
+[ 🖥 <a href="https://eszakigabor.github.io/Aureya/gui/bluewormhole/blue_wormhole.html">PC TERMINAL</a> ]
+&nbsp;&nbsp;◆&nbsp;&nbsp;
+[ 📱 <a href="https://eszakigabor.github.io/Aureya/gui/bluewormhole/blue_wormhole_mobil.html">MOBILE TERMINAL</a> ]
 </a>
 
 </td>
