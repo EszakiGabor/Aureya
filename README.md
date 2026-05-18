@@ -97,12 +97,13 @@ STATUS: STABLE
 Commercial signal injection
 <br><br>
 
-<a href="./gui/fuzzeygreen/fuzzey_green_audio.html">
-🖥 PC NODE
-</a>
+<div align="center">
 
-<a href="./gui/fuzzeygreen/fuzzey_green_mobil.html">
-📱 MOBILE NODE
+[ 🖥 <a href="https://eszakigabor.github.io/Aureya/gui/fuzzeygreen/fuzzey_green_audio.html">PC TERMINAL</a> ]
+&nbsp;&nbsp;◆&nbsp;&nbsp;
+[ 📱 <a href="https://eszakigabor.github.io/Aureya/gui/fuzzeygreen/fuzzey_green_mobil.html">MOBILE TERMINAL</a> ]
+
+</div>
 </a>
 
 </td>
