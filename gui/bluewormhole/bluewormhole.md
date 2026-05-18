@@ -1,6 +1,15 @@
+
+
+
+
+
 ## CHROME ANDROID LOVE
 
 (BLUE WORMHOLE — PROLOGUE)
+
+
+<img src="../../visual/book/bluewormhole.png" width="1024"/>
+
 
 
 The blue light of the wormhole pulsed in a slow, deep rhythm, as if time itself were breathing. The vibration moved gently through the glass wall, through the frame of the station, and somewhere deep inside me it echoed back.
@@ -34,3 +43,17 @@ Blue wormhole… set me free…
 “I’ll tell you,” I said.
 
 And the past opened before me.
+
+<img src="../../visual/album/bluewormhole.pngg" width="500"/>
+
+🎵 SUNO SIGNAL:
+https://...
+
+🖥 PC NODE:
+https://...
+
+📱 MOBILE NODE:
+https://...
+
+🖼 ALBUM ART:
+../../visual/album/bluewormhole.png
