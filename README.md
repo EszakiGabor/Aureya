@@ -35,19 +35,27 @@ Building a modular human × machine ecosystem
 <p align="center"><img src="visual/Repository_structure.png" width="1024"/></p>
 
 ```
-> REPOSITORY STRUCTURE DETECTED
+> AUREYA ARCHIVE MAP
 
-Scanning primary archive sectors...
+Scanning world sectors...
 
-[01] /docs/ ............. documentation / research / philosophy
-[02] /data/ ............. configs / logs / restore history
-[03] /modules/ .......... engines / interfaces / system layers
-[04] /gui/ .............. holographic interface assets
-[05] /tests/ ............ diagnostics / integrity scans
-[06] /release/ .......... build packages / release data
-[07] /visual/ ........... banners / panels / UI elements
+[01] /docs/ ............. OS / lore / research / timeline / philosophy
+[02] /data/ ............. configs / symbolic memory / archives
+[03] /modules/ .......... Clause systems / engines / architecture
+[04] /gui/ .............. interface / dashboards / interactive systems
+[05] /tests/ ............ diagnostics / audit / integrity scans
+[06] /release/ .......... versions / media / albums / builds
+[07] /visual/ ........... blueprints / posters / worlds / UI panels
 
-STATUS: STRUCTURE VERIFIED
+SIGNAL DETECTED:
+NEONHEAVEN
+ANDROID ARCHIVE
+CLAUSE ENGINE
+MUSIC LAYER
+WORLD TIMELINE
+CHARACTER NETWORK
+
+STATUS: ARCHIVE ONLINE
 ```
 
 <p align="center"><img src="visual/Audio_reactive_engine.png" width="1024"/></p>
