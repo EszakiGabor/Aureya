@@ -141,8 +141,8 @@ Commercial signal injection
 
 <td align="center">
 
-<a href="./gui/bluewormhole/blackhole_blue_wormhole.html">
-<img src="./visual/blue_wormhole.gif" width="320"><br>
+<a href="./gui/bluewormhole/bluewormhole.md">
+<img src="./visual/album/bluewormhole.png" width="320"><br>
 <b>BLUE WORMHOLE v1.1</b>
 </a><br>
 
@@ -150,13 +150,13 @@ Temporal gate sequence
 
 <br><br>
 
-<a href="./gui/bluewormhole/bluewormhole_pc.html">
+<a href="./gui/bluewormhole/blue_wormhole.html">
 🖥 PC NODE
 </a>
 
 |
 
-<a href="./gui/bluewormhole/bluewormhole_mobile.html">
+<a href="./gui/bluewormhole/blue_wormhole_mobil.htm">
 📱 MOBILE NODE
 </a>
 
