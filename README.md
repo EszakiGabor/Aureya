@@ -89,27 +89,46 @@ STATUS: STABLE
 <tr>
 
 <td align="center">
+
 <a href="./gui/fuzzeygreen/fuzzeygreen.md">
 <img src="./visual/commercial/fuzzeygreen1.png" width="320"><br>
 <b>FUZZEY GREEN™ v1.0</b>
 </a><br>
 Commercial signal injection
+<br><br>
+
+<a href="./gui/fuzzeygreen/fuzzey_green_audio.html">
+🖥 PC NODE
+</a>
+
+<a href="./gui/fuzzeygreen/fuzzey_green_mobil.html">
+📱 MOBILE NODE
+</a>
+
 </td>
 
+
 <td align="center">
-<a href="./gui/bluewormhole/bluewormhole.html">
-<img src="./visual/bluewormhole.png" width="320"><br>
+
+<a href="./gui/bluewormhole/blackhole_blue_wormhole.html">
+<img src="./visual/blue_wormhole.gif" width="320"><br>
 <b>BLUE WORMHOLE v1.1</b>
 </a><br>
-Temporal gate sequence
-</td>
 
-<td align="center">
-<a href="./gui/aureya/aureya.md">
-<img src="./visual/aureya_presence.gif" width="320"><br>
-<b>AUREYA PRESENCE v0.9</b>
-</a><br>
-Emotional matrix update
+Temporal gate sequence
+
+<br><br>
+
+<a href="./gui/bluewormhole/bluewormhole_pc.html">
+🖥 PC NODE
+</a>
+
+|
+
+<a href="./gui/bluewormhole/bluewormhole_mobile.html">
+📱 MOBILE NODE
+</a>
+
 </td>
 
 </tr>
