@@ -44,7 +44,7 @@ Blue wormhole… set me free…
 
 And the past opened before me.
 
-<img src="../../visual/album/bluewormhole.pngg" width="500"/>
+<img src="../../visual/album/bluewormhole.png" width="500"/>
 
 [17] BLUE WORMHOLE
 Temporal Gate Sequence
