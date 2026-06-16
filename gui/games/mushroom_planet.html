@@ -55,27 +55,30 @@
   }
   .char-icon { font-size:clamp(24px,6vw,34px); display:block; margin-bottom:3px; }
 
-  /* Touch controls */
+  /* Touch controls - always visible on mobile */
   #touchControls {
-    display:none; position:absolute; bottom:0; left:0; right:0;
-    height:120px; z-index:15; pointer-events:none;
+    display:none; position:fixed; bottom:0; left:0; right:0;
+    height:130px; z-index:100; pointer-events:none;
+    background:linear-gradient(transparent, rgba(0,0,0,0.4));
   }
-  #touchControls.active { display:flex; justify-content:space-between; align-items:flex-end; padding:10px 16px; }
-  .dpad { display:flex; gap:6px; pointer-events:all; }
+  #touchControls.active { display:flex; justify-content:space-between; align-items:flex-end; padding:12px 20px 16px; }
+  .dpad { display:flex; gap:8px; pointer-events:all; align-items:flex-end; }
   .tbtn {
-    width:56px; height:56px; border-radius:50%;
-    background:rgba(255,107,255,0.25); border:2px solid #ff6bff88;
-    color:#ff6bff; font-size:22px; display:flex; align-items:center; justify-content:center;
-    user-select:none; cursor:pointer; active:background:rgba(255,107,255,0.5);
+    width:64px; height:64px; border-radius:50%;
+    background:rgba(255,107,255,0.3); border:2px solid #ff6bffaa;
+    color:#ff6bff; font-size:24px; display:flex; align-items:center; justify-content:center;
+    user-select:none; -webkit-user-select:none; cursor:pointer;
+    pointer-events:all; touch-action:none;
   }
-  .tbtn:active { background:rgba(255,107,255,0.5); }
+  .tbtn.pressed { background:rgba(255,107,255,0.7); border-color:#ff6bff; }
   #jumpBtn {
-    width:70px; height:70px; border-radius:50%;
-    background:rgba(0,255,204,0.25); border:2px solid #00ffcc88;
-    color:#00ffcc; font-size:28px; display:flex; align-items:center; justify-content:center;
-    pointer-events:all; cursor:pointer; user-select:none;
+    width:80px; height:80px; border-radius:50%;
+    background:rgba(0,255,204,0.3); border:2px solid #00ffccaa;
+    color:#00ffcc; font-size:32px; display:flex; align-items:center; justify-content:center;
+    pointer-events:all; cursor:pointer; user-select:none; -webkit-user-select:none;
+    touch-action:none;
   }
-  #jumpBtn:active { background:rgba(0,255,204,0.5); }
+  #jumpBtn.pressed { background:rgba(0,255,204,0.7); border-color:#00ffcc; }
 </style>
 </head>
 <body>
@@ -136,6 +139,8 @@ function resize() {
 }
 resize();
 window.addEventListener('resize', () => { resize(); });
+// Init touch controls immediately
+window.addEventListener('load', setupTouch);
 
 const isMobile = ('ontouchstart' in window);
 
@@ -187,16 +192,23 @@ document.addEventListener('keyup',e=>{keys[e.key]=false;});
 
 function setupTouch() {
   const tc = document.getElementById('touchControls');
-  if (isMobile) tc.classList.add('active');
+  tc.classList.add('active');
 
-  function hold(el, prop) {
-    el.addEventListener('touchstart',e=>{e.preventDefault();touch[prop]=true;},{passive:false});
-    el.addEventListener('touchend',e=>{e.preventDefault();touch[prop]=false;},{passive:false});
-    el.addEventListener('touchcancel',e=>{touch[prop]=false;},{passive:false});
+  function bindBtn(id, prop) {
+    const el = document.getElementById(id);
+    const on = () => { touch[prop]=true; el.classList.add('pressed'); };
+    const off = () => { touch[prop]=false; el.classList.remove('pressed'); };
+    el.addEventListener('touchstart', e=>{ e.preventDefault(); on(); }, {passive:false});
+    el.addEventListener('touchend',   e=>{ e.preventDefault(); off(); }, {passive:false});
+    el.addEventListener('touchcancel',e=>{ e.preventDefault(); off(); }, {passive:false});
+    // Also mouse for desktop testing
+    el.addEventListener('mousedown', on);
+    el.addEventListener('mouseup',   off);
+    el.addEventListener('mouseleave',off);
   }
-  hold(document.getElementById('btnLeft'),'left');
-  hold(document.getElementById('btnRight'),'right');
-  hold(document.getElementById('jumpBtn'),'jump');
+  bindBtn('btnLeft',  'left');
+  bindBtn('btnRight', 'right');
+  bindBtn('jumpBtn',  'jump');
 }
 
 // Sound
@@ -309,7 +321,6 @@ function startGame(){
   levelData=buildLevel(level);
   p1=makePlayer(80,selectedChar==='crt'?'#00ffcc':'#ff6bff',selectedChar==='crt');
   SFX.start();
-  setupTouch();
   if(musicEnabled){
     const bgm=document.getElementById('bgm');
     bgm.volume=0.5;bgm.currentTime=0;bgm.play().catch(()=>{});
