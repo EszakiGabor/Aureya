@@ -106,6 +106,9 @@
     </div>
     <p style="color:#ffcc00">🍄 Collect mushrooms &nbsp;|&nbsp; ⚠️ Avoid enemies &nbsp;|&nbsp; 🏁 Reach the flag!</p>
     <button class="btn" onclick="startGame()">▶ PRESS START</button>
+    <div style="margin-top:10px">
+      <button onclick="toggleMusic()" id="musicBtn" style="background:none;border:1px solid #444;color:#888;font-size:12px;font-family:Courier New;padding:6px 14px;cursor:pointer;border-radius:4px">🔇 MUSIC OFF</button>
+    </div>
   </div>
   <div id="touchControls">
     <div class="dpad">
@@ -147,6 +150,22 @@ const LEVELS = [
 let state='menu', level=0, coins=0, lives=3, timer=0;
 let camera={x:0};
 let selectedChar='crt';
+let musicEnabled=false;
+
+function toggleMusic(){
+  musicEnabled=!musicEnabled;
+  const btn=document.getElementById('musicBtn');
+  const bgm=document.getElementById('bgm');
+  if(musicEnabled){
+    btn.textContent='🎵 MUSIC ON';
+    btn.style.color='#ffcc00';btn.style.borderColor='#ffcc00';
+    bgm.volume=0.5;bgm.play().catch(()=>{});
+  } else {
+    btn.textContent='🔇 MUSIC OFF';
+    btn.style.color='#888';btn.style.borderColor='#444';
+    bgm.pause();
+  }
+}
 
 function selectChar(c) {
   selectedChar=c;
@@ -291,8 +310,10 @@ function startGame(){
   p1=makePlayer(80,selectedChar==='crt'?'#00ffcc':'#ff6bff',selectedChar==='crt');
   SFX.start();
   setupTouch();
-  document.getElementById('bgm').volume=0.5;
-  document.getElementById('bgm').play().catch(()=>{});
+  if(musicEnabled){
+    const bgm=document.getElementById('bgm');
+    bgm.volume=0.5;bgm.currentTime=0;bgm.play().catch(()=>{});
+  }
   state='playing';
   requestAnimationFrame(loop);
 }
